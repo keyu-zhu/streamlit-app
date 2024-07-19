@@ -1,0 +1,11 @@
+---
+streamlit:
+  title: "Knowledge Library Demo"
+  tab_title: "Knowledge Library Demo"
+  logo: "images/anywhere_logo.png"
+  page_icon: "images/anywhere_logo.png"
+  avatar: "images/openai.png"
+  assistant_intro_message: "Hi there :wave:, I'm an AI assistant powered by Large Language Models. How can I help?"
+  about: "this is a demo bot, author: Applied AI team"
+azure:
+  dummy: "test"
